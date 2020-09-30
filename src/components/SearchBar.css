@@ -1,0 +1,12 @@
+.grid{
+  display:grid;
+
+}
+.ui .button{
+
+  margin-top: 30px;
+}
+
+label{
+  position:absolute;
+}

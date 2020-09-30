@@ -1,0 +1,22 @@
+.image-list{
+  display:grid;
+grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+margin-top: 20px;
+}
+
+.image-list img{
+  width:250px;
+}
+
+.grid{
+  display:grid;
+
+}
+.ui .button{
+  margin-left:40vw;
+  margin-top: 30px;
+}
+
+label{
+  color:red;
+}
